@@ -1,0 +1,43 @@
+.App {
+    text-align: center;
+}
+
+.card {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 30%;
+    background-color: lightcyan;
+/* display: flex;
+flex-direction: column;
+line-height: 1px;
+background-color: 66cdaa; 
+width: 40%;
+margin-bottom: 25px;
+margin-right: 45px;
+border-radius: 30px; */
+}
+
+.card-info {
+    .username {
+        font-family: 'Acme', sans-serif;
+        font-size: 2rem;
+        
+    };
+}
+
+.friends {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 30%;
+    background-color: lightcyan;
+}
+
+
+
+/* // font-family: 'Acme', sans-serif;
+// font-family: 'Balsamiq Sans', cursive;
+// font-family: 'Ruda', sans-serif; */
